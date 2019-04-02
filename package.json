@@ -1,0 +1,14 @@
+{
+  "name": "aws-static-site-cloudformation",
+  "version": "1.0.0",
+  "description": "script template for deploying static sites to aws s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-s3bucket-sync": "^0.1.5"
+  }
+}
